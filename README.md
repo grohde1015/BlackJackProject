@@ -17,5 +17,18 @@ Practice:
 
 Main Game:
 	- The user is able to play in a casino simulator with cards and betting
+<<<<<<< HEAD
 	
 	Hi
+=======
+<<<<<<< HEAD
+
+Testing
+=======
+	
+	
+	
+	
+	
+>>>>>>> b8968de041bc28062564f7505db4df441035fb2b
+>>>>>>> b350cd851b235f1e03b03cd5bfb7b2008ed749a1
